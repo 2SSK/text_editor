@@ -2,6 +2,7 @@
 
 ## Todo for the text editor:
 
+- [x] Create a window.
 - [ ] Provide a menubar/menus.
 - [ ] Edit a single text file.
 - [ ] Load a file.
