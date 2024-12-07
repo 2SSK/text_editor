@@ -11,6 +11,8 @@
 *.exe
 *.out
 
+text_editor
+
 # Ignore IDE and editor-specific files
 .idea/
 .vscode/

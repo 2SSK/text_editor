@@ -4,6 +4,7 @@
 #include <FL/Fl_Button.H>
 #include <FL/Fl_Double_Window.H>
 #include <FL/Fl_Input.H>
+#include <FL/Fl_Menu_Bar.H>
 #include <FL/Fl_Return_Button.H>
 #include <FL/Fl_Text_Buffer.H>
 #include <FL/Fl_Text_Editor.H>
@@ -20,6 +21,9 @@ public:
   Fl_Button *replace_all;
   Fl_Return_Button *replace_next;
   Fl_Button *replace_cancel;
+
+  // Menubar and menus
+  Fl_Menu_Bar *menu;
 
   // Main text editor component
   Fl_Text_Editor *editor;

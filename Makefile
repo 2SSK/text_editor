@@ -1,7 +1,7 @@
 # Compiler and flags for compiling the source code
 CXX = g++
 CXXFLAGS = -Wall -std=c++17
-LDFLAGS = -lfltk -lfltk_images
+LDFLAGS = -lfltk -lfltk_images -lX11
 
 # Target output file
 TARGET = text_editor
