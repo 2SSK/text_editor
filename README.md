@@ -1,12 +1,14 @@
-# A simple Text Editor in C++ using **FLTK(Fast and Light Toolkit)**
+# Text Editor
 
-## Todo for the text editor:
+A lightweight and functional text editor built using C++ and the FLTK library. This project demonstrates clean, modular design and effective use of modern C++ features for creating GUI-based applications.
 
-- [x] Create a window.
-- [ ] Provide a menubar/menus.
-- [ ] Edit a single text file.
-- [ ] Load a file.
-- [ ] Save a file.
-- [ ] Implement cut/copy/paste/delete functions.
-- [ ] Implement search and replace functions.
-- [ ] Track file changes.
+## Features
+
+- **Minimalistic Interface**: Simple and user-friendly design for ease of use.
+- **Text Editing**: Supports basic text editing features such as open, save, and modify files.
+- **Cross-Platform**: Built using FLTK, ensuring compatibility across Linux, Windows, and macOS.
+- **Customizable**: Modular codebase allows for easy extension and addition of new features.
+
+## Screenshots
+
+![./TextEditor_preview.png](TextEditor)
