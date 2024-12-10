@@ -11,4 +11,4 @@ A lightweight and functional text editor built using C++ and the FLTK library. T
 
 ## Screenshots
 
-![./TextEditor_preview.png](TextEditor)
+![Text Editor](./TextEditor_preview.png)
